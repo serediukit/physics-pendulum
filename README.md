@@ -4,11 +4,11 @@ Simple physics simulator in pygame using Verlet Integration.
 # Presettings
 You need to install next python lib's for code working
 
-pip install numpy
+`pip install numpy`
 
-pip install matplotlib
+`pip install matplotlib`
 
-pip install pygame
+`pip install pygame`
 
 ## Running the simulator
 Just run the main.py file.
